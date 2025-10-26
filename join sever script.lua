@@ -13,7 +13,7 @@ type ServerHopConfig = {
 }
 
 local config: ServerHopConfig = {
-    TargetPlaceId = 17742146895, -- Place ID từ link VIP
+    TargetPlaceId = 109983668079237, -- Place ID từ link VIP
     ServerCode = "410f15c668ff3d4096bb816294c7385d",
     MaxRetries = 5,
     RetryDelay = 3
